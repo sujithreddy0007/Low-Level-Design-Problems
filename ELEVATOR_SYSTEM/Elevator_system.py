@@ -132,7 +132,6 @@ class Building:
         return best_elevator
 
     def step(self):
-
         for elevator in self.elevators:
             elevator.move()
 
