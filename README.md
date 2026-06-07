@@ -6,3 +6,4 @@
 5. Rate Limiter (sliding Window approach)
 6. Book My Show 
 7. Elevator System
+8. Car Rental System
